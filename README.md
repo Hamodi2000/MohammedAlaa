@@ -44,4 +44,4 @@ Currently improving skills in:
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Alaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-alaa) LinkedIn: https://linkedin.com/in/mohammed-alaa
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Alaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-alaa)

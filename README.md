@@ -1,7 +1,8 @@
 # Hi, I'm Mohammed Alaa
 
 Cybersecurity and Network Security graduate with a strong interest in penetration testing, vulnerability analysis, and security research.
-[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ## Areas of Interest
 
